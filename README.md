@@ -1,2 +1,2 @@
 # Godot-Shmup-Template
-READNE.md has detailed explanations.
+README.md has detailed explanations.
