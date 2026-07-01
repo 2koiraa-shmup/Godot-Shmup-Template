@@ -1,5 +1,9 @@
 This is an example project that you can use to get started with [BlastBullets2D](https://github.com/nikoladevelops/godot-blast-bullets-2d).
 
+NOTE: The project contains following error: In enemy_ship scripts 	damage_data.is_from_player = True.
+
+While this is incorrect it doesn't currently cause issues and thus slipped through.
+
 It has been modified to contain basic vertical scrolling shmup functionalities by 2Koiraa, please note that I'm new to Godot so implementations might be suboptimal.
 
 Menu system uses this template https://github.com/Maaack/Godot-Game-Template
